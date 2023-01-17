@@ -1,6 +1,6 @@
 #Working on a web scraper for Indeed 
 
-It's hard to believe how easy this was
+It's hard to believe how easy this was. 
 I found a few ways to do it.
 I print it to the screen and I decided I wanted it to print to a file. 
 I just run from python in the command line. 
