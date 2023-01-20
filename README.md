@@ -1,5 +1,6 @@
-#Working on a web scraper for Indeed 
+# Web Scraper for Job Listings
 
+## Indeed
 This was so easy. 
 I found a few ways to do it.
 I print it to the screen and I decided I wanted it to print to a file. 
@@ -11,4 +12,5 @@ I also looked up how to use javascript.
 
 I did find a few sites seemed "harder" to find the data itself, like it was linked. I'll have to look at that more. 
 
-I'm dusting this off to see about scraping linkedin jobs.
+## LinkedIn
+Coming Soon! :hatching_chick:
